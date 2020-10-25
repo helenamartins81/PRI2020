@@ -23,7 +23,9 @@
         </paragrafos>
     </abstract>
     <deliverables>
-        <ref href=""></ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC2/PR.dtd">DTD do Project Record</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC2/tp2.xml">XML do Project Record</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC2/arqueossitios.txt">Questões - problema Arqueossítio</ref>
     </deliverables>
 </projRecord>
 
