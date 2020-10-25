@@ -1,0 +1,46 @@
+.caneta img {
+    float: right;
+    clear:right;
+    border-radius: 8px;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 90px;
+}
+
+
+
+.def {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 80px;
+    line-height: 1.5;
+    font-family: Arial:
+}
+
+
+.tipos {
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+.historia {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 80px;
+    line-height: 1.5;
+    font-family: Arial;
+}
+
+.indice {
+    margin-left: 10px;
+    margin-right: 5px;
+    font-family: Arial;
+
+}
+
+  footer{
+    width: 100%;
+    padding: 3px;
+    font-size: 14px;
+}
+

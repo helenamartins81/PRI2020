@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projRecord SYSTEM "PR.dtd">
+<projRecord>
+    <title>Project Record</title>
+    <dados>
+        <key_name>PRI_TP2</key_name>
+        <title>DTDs</title>
+        <subtitle>TPC2 de PRI sobre DTDs</subtitle>
+        <begin_date>19-10-2020</begin_date>
+        <end_date>26-10-10</end_date>
+        <supervisor href="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </dados>
+    <workteam>
+        <elemento>
+            <nome>Helena Poças Martins</nome>
+            <email>a82500@alunos.uminho.pt</email>
+        </elemento>
+    </workteam>
+    <abstract>
+        <paragrafos>
+            <frases>No segundo TPC da cadeira de Processamento e Reconhecimento de Informação foi solicitado aos alunos a criação de um DTD, que definisse um Project Record, e o respetivo ficheiro XML.</frases>
+            <frases>Além disso, foram respondidas algumas questões sobre arqueossítios, usando <bold>XPath</bold>, cujo enunciado se encontra em <ref href="http://www4.di.uminho.pt/~jcr/AULAS/didac/RepFichas/site/fichas/f2.html#e2"> documentos</ref></frases>
+        </paragrafos>
+    </abstract>
+    <deliverables>
+        <ref href=""></ref>
+    </deliverables>
+</projRecord>
+
+
+
+
