@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE projRecord SYSTEM "pr.dtd">
+<projRecord>
+    <title>Arqueossítios do Noroeste Português</title>
+    <dados>
+        <key_name>PRI_TP2</key_name>
+        <title>Stylesheets XSL</title>
+        <subtitle>TPC3 de PRI sobre stylesheets</subtitle>
+        <begin_date>26-10-2020</begin_date>
+        <end_date>2-11-2020</end_date>
+        <supervisor href="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho></supervisor>
+    </dados>
+    <workteam>
+        <elemento>
+            <nome>Helena Poças Martins</nome>
+            <email>a82500@alunos.uminho.pt</email>
+        </elemento>
+    </workteam>
+    <abstract>
+        <paragrafos>
+            <frases>No terceiro TPC da cadeira de Processamento e Reconhecimento de Informação foi solicitada a criação de uma stylesheet XSL de modo a ser criado um website sobre os arqueossítios do noroeste português, dados que se encontram num ficheiro XML.</frases>
+            <frases>O website é constituido por um índice que nos redireciona para a página HTML de cada arqueossítio escolhido.</frases>
+            <frases>Além disso, também foi criado o DTD do ficheiro XML dos arqueossítios.</frases>
+        </paragrafos>
+    </abstract>
+    <deliverables>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC3/arq.dtd">DTD do XML dos Arqueossítios</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC3/arq.xml">XML dos Arqueossítios</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC3/arq.xsl">XSL do XML dos Arqueossítios</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC3/pr.dtd">DTD do Project Record</ref>
+        <ref href="https://github.com/helenamartins81/PRI2020/blob/main/TPC3/pr.xml">XML do Project Record</ref>
+        
+    </deliverables>
+</projRecord>
