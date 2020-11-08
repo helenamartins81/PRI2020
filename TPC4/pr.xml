@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "file:/home/addams/Desktop/PLC/PRI/aula4/pr.dtd">
+<pr>
+    <meta>
+        <key>PRI_TP4</key>
+        <title>Servidor Node Js</title>
+        <subtitle>TPC4 sobre servidores em Node js</subtitle>
+        <bdate>2-11-2020</bdate>
+        <edate>9-11-2020</edate>
+        <supervisor>José Carlos Ramalho</supervisor>
+    </meta>
+    <workteam>
+        <worker num="A82500">
+            <name>Helena Poças Martins</name>
+            <email>a82500@alunos.uminho.pt</email>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>No quarto TPC da cadeira de Processamento e Reconhecimento de Informação foi pedido um servidor em NodeJs.</p>
+        <p>A primeira parte consistia em dar um determinado nome às páginas html criadas do website dos arqueossítios.</p>
+        <p>Seguidamente, foi feito um servidor em NodeJs de modo a este receber pedidos e responder com a respetiva página html. </p>
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC4/arq.xml">XML dos Arqueossítios</link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC4/arq.xsl">XSL do XML dos Arqueossítios</link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC4/pr.xml">XML do Project Record</link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC4/server.js">Server </link>
+        
+    </deliverables>
+</pr>
