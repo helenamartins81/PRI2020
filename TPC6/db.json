@@ -1,0 +1,56 @@
+{
+  "tarefas": [
+    {
+      "id": "T1",
+      "titulo": "tarefa 1",
+      "descricao": "Ir às compras",
+      "responsavel": "Helena",
+      "data": "24-11-2020",
+      "estado": "pendente"
+    },
+    {
+      "id": "T2",
+      "titulo": "Estudar",
+      "descricao": "Fazer TPC de PRI",
+      "responsavel": "Addams",
+      "data": "23-11-2020",
+      "estado": "pendente"
+    },
+    {
+      "id": "T10",
+      "titulo": "Gota",
+      "descricao": "café no gota",
+      "responsavel": "81",
+      "data": "23-11-2020",
+      "estado": "pendente"
+    },
+    {
+      "id": "rVC12i2",
+      "titulo": "Limpezas",
+      "descricao": "limpar a casa ",
+      "responsavel": "mulan",
+      "data": "2-12-2020",
+      "estado": "pendente"
+    }
+  ],
+  "realizadas": [
+    {
+      "id": "T3",
+      "titulo": "Compras",
+      "descricao": "comprar café",
+      "responsavel": "Zé",
+      "data": "11-11-2020",
+      "estado": "realizada"
+    }
+  ],
+  "canceladas": [
+    {
+      "id": "T4",
+      "titulo": "Ginásio",
+      "descricao": "Ir ao ginásio",
+      "responsavel": "Maria",
+      "data": "06-11-2020",
+      "estado": "cancelada"
+    }
+  ]
+}
