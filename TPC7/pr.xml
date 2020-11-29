@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <key>PRI_TP7</key>
+        <title>Servidor em NodeJS para Gerir uma Base de Dados de Alunos</title>
+        <subtitle>TPC7 sobre servidor em Node js</subtitle>
+        <bdate>23-11-2020</bdate>
+        <edate>30-11-2020</edate>
+        <supervisor>José Carlos Ramalho</supervisor>
+    </meta>
+    <workteam>
+        <worker num="A82500">
+            <name>Helena Poças Martins</name>
+            <email>a82500@alunos.uminho.pt</email>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>No sétimo TPC da cadeira de Processamento e Reconhecimento de Informação foi proposto contruir um servidor utilizando a framework <b>Express</b>.</p>
+        <p>Este servidor seria capaz de gerir uma base de dados em MongoDB e responde a vários pedidos GET, POST e DELETE.</p>
+        <p>Nesses pedidos estão incluidas várias operações como adicionar, editar e remover registos da base de dados.</p>
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC7/PRI2020"> Servidor </link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC7/PRI2020.json">Dataset da Lista de Alunos</link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC7/pr.xml">XML do Project Record</link>
+        
+        
+    </deliverables>
+</pr>
