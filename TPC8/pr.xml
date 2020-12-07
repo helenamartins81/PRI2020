@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <key>PRI_TP8</key>
+        <title>Servidor em NodeJS para Gestão de Ficheiros</title>
+        <subtitle>TPC8 sobre servidor em Node js</subtitle>
+        <bdate>30-11-2020</bdate>
+        <edate>7-12-2020</edate>
+        <supervisor>José Carlos Ramalho</supervisor>
+    </meta>
+    <workteam>
+        <worker num="A82500">
+            <name>Helena Poças Martins</name>
+            <email>a82500@alunos.uminho.pt</email>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>No oitavo TPC da cadeira de Processamento e Reconhecimento de Informação foi proposto contruir um servidor utilizando a framework <b>Express</b>.</p>
+        <p>Este servidor tem como objetivo a gestão de ficheiros, isto é, conseguir fazer Upload e Download dos mesmos.</p>
+        <p>O objetivo deste TPC seria conseguir fazer Upload de vários ficheiros.</p>
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC8/gficheiros2"> Servidor </link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/TPC8/pr.xml">XML do Project Record</link>
+        
+    </deliverables>
+</pr>
