@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <key>PRI2020::Teste::A82500</key>
+        <title>Teste de PRI </title>
+        <subtitle>Teste de avaliação</subtitle>
+        <bdate>18-01-2021</bdate>
+        <edate>18-01-2021</edate>
+        <supervisor>José Carlos Ramalho</supervisor>
+    </meta>
+    <workteam>
+        <worker num="A82500">
+            <name>Helena Poças Martins</name>
+            <email>a82500@alunos.uminho.pt</email>
+        </worker>
+    </workteam>
+    <abstract>
+        <p>No exercício 1 foi usado o MongoDB para a persistência dos dados, onde foi criada uma base de dados chamada Casamentos com uma coleção casamentos.
+            Para conseguir usas esses dados, foi necessário executar o comando para importar esse dataset para o mondo db <b>mongoimport -d Casamentos -c casamentos casamentos.json --jsonArray</b>.
+            Depois foi gerado o servidor com o Express com a porta 3000. Neste servidor foi criada uma rota chamada api onde foram realizados todos os gets propostos no enunciado.
+        </p>
+        <p> No segundo exercício, na primeira parte foram respondidas algumas queries sobre a API de dados com o recurso ao Postman.
+            Na segunda parte foi implementada uma interface para essa API, onde foi usado o axios para aceder a todos os dados.
+        </p>
+     
+    </abstract>
+    <deliverables>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/PRI2020-Teste"> Link para repositório do teste completo </link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/PRI2020-Teste/ex1"> Exercício 1 </link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/PRI2020-Teste/ex2"> Exercício 2 - aplicação</link>
+        <link url="https://github.com/helenamartins81/PRI2020/blob/main/PRI2020-Teste/alíneas"> Respostas das alíneas do exercício 2</link>
+
+        
+    </deliverables>
+</pr>

@@ -1,0 +1,40 @@
+extends layout
+
+block content
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-teal.w3-margin-top
+                h3 Classe 
+            table.w3-table-all
+                tr
+                    th Código
+                        td= lista.codigo
+                tr
+                    th Título
+                        td= lista.titulo
+                tr
+                    th Estado
+                        td= lista.status
+                tr  
+                    th Nível
+                        
+                            td= lista.nivel
+
+        .w3-card-4
+            header.w3-container.w3-teal.w3-margin-top
+                h3 Descendência:
+            table.w3-table-all
+                tr
+                    th Código
+                    th Título
+                    th Estado
+                each e in desc
+                    tr
+                        td= e.codigo
+                        td= e.titulo
+                        td= e.status
+                        
+        
+    footer.w3-container.w3-teal Helena Martins
+            a(href='/')
+                button.w3-button.w3-green.w3-margin Voltar
